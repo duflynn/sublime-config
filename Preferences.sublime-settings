@@ -1,0 +1,11 @@
+{
+	"auto_complete": false,
+	"color_scheme": "Packages/User/SublimeLinter/Flatland Dark (SL).tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"sublimelinter": false,
+	"tab_size": 2,
+	"word_wrap": true
+}
